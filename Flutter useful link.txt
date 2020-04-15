@@ -1,0 +1,90 @@
+debug exit =1 :  https://github.com/flutter/flutter/issues/24645
+
+position: https://medium.com/flutter-community/a-deep-dive-into-stack-in-flutter-3264619b3a77
+
+Button customize: https://stackoverflow.com/questions/50293503/how-to-set-the-width-of-a-raisedbutton-in-flutter
+
+RaisedButtion -icon-resize: https://stackoverflow.com/questions/52033839/raised-button-width-decrease-flutter
+
+Background Image color change: https://api.flutter.dev/flutter/widgets/ShaderMask-class.html
+
+Grid Layout: https://medium.com/flutter/slivers-demystified-6ff68ab0296f
+
+API: https://blog.usejournal.com/getting-response-from-rest-api-in-flutter-7e0b00c459bd
+
+Classpath artifacts issues : 1) flutter doctor --verbose 2) delete signin.json in build
+
+background-image-color-change: https://stackoverflow.com/questions/51190657/flutter-how-to-blend-an-image-with-a-gradient-colour
+
+checkbox-boundary-color: https://stackoverflow.com/questions/54821518/change-checked-mark-color-of-checkbox-in-flutter
+
+boxdecoration : https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20
+
+textfield : https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a
+
+textfield-border : https://stackoverflow.com/questions/50122394/not-able-to-change-textfield-border-color
+
+NestedBar: https://medium.com/flutterarsenal/build-a-nested-tabbar-in-flutter-7e0cae5cfc7
+
+textfield : https://stackoverflow.com/questions/49040679/flutter-how-to-make-a-textfield-with-hinttext-but-no-underline
+
+
+Canvas : https://medium.com/flutteropen/canvas-tutorial-01-how-to-use-the-canvas-in-the-flutter-8aade29ddc9
+
+Clock : https://medium.com/flutter/its-time-the-flutter-clock-contest-results-dcebe2eb3957
+
+Game : https://medium.com/flutter-community/from-zero-to-a-multiplatform-flutter-game-in-a-week-8245da931c7e
+
+
+Game 1 : https://blog.geekyants.com/building-a-2d-game-in-flutter-a-comprehensive-guide-913f647846bc
+
+Game2 : https://dragosholban.com/2019/02/16/building-a-puzzle-game-using-flutter/
+
+MVC : https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730
+
+
+Enable ARCore: https://developers.google.com/ar/develop/java/enable-arcore
+
+share images/text : https://pub.dev/packages/esys_flutter_share
+
+flutter sdk setup : https://documentation.onesignal.com/docs/flutter-sdk-setup
+
+Passing data to StatefulWidget and accessing it in it's state in Flutter : https://stackoverflow.com/questions/50287995/passing-data-to-statefulwidget-and-accessing-it-in-its-state-in-flutter
+
+changenotifier: https://stackoverflow.com/questions/59100723/flutter-changenotifierprovider-builder-is-deprecated
+
+
+form field validation : https://medium.com/@nitishk72/form-validation-in-flutter-d762fbc9212c
+form field validation : https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4
+
+How to handle TextField validation in password : https://stackoverflow.com/questions/56253787/how-to-handle-textfield-validation-in-password-in-flutter
+
+Regex format : https://www.reddit.com/r/dartlang/comments/2n3mrz/typeofdart/
+
+Drawer with opacity : https://stackoverflow.com/questions/50751455/flutter-how-to-create-a-widget-class-that-is-transparent
+
+Loading image : https://pub.dev/packages/custom_progress_dialog#-example-tab-
+
+Loading : https://flutterawesome.com/tag/loading/
+
+liquid progress : https://flutterawesome.com/a-liquid-progress-indicator-for-flutter/
+
+sql+dropdownlist : https://medium.com/@gadepalliaditya1998/populating-dropdown-list-with-data-from-sqflite-in-flutter-1286e4372def
+
+Flutter Network Image does not fit in Circular Avatar : https://stackoverflow.com/questions/53513456/flutter-network-image-does-not-fit-in-circular-avatar
+
+Clipper : https://medium.com/@mg55851/flutter-clippers-1fa3666f2bef
+
+clipper type : https://www.developerlibs.com/2019/08/flutter-draw-custom-shaps-clip-path.html
+
+Flutter blog : https://www.developerlibs.com/search?q=flutter
+
+Visibility : https://www.woolha.com/tutorials/flutter-hide-show-widget-using-visibility
+
+Clipping : https://medium.com/flutter-community/clipping-in-flutter-e9eaa6b1721a
+
+Clipping widgets with bezier curves in Flutter : https://iiro.dev/2017/09/04/clipping-widgets-with-bezier-curves-in-flutter/
+
+
+
+
